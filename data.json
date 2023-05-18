@@ -1,0 +1,736 @@
+{
+  "items": [
+    {
+      "id": "36e06d4a-e12b-418a-9f2f-f56157ad5e32",
+      "title": "Unifying Theories of Programming",
+      "author": "Charles Antony Richard Hoare",
+      "description": "This book provides a synthesis of the theory of programming. It aims to use mathematical theory of programming to provide a similar basis for specification, design and implementation of programs. It is wide ranging both in its subject matter and also in its approach and style. The first five chapter...",
+      "status": "to_read",
+      "tags": [
+        "ios",
+        "html",
+        "ada",
+        "styles",
+        "mobile",
+        "c#",
+        "unit"
+      ]
+    },
+    {
+      "id": "a4b9f1a8-8e88-4795-9c1e-d0cffe718565",
+      "title": "Scala",
+      "author": "Thomas Much",
+      "description": "Now in its fifth edition, JAVASCRIPT guides beginning programmers through Web application development using the JavaScript programming language. As with previous editions of this book, Don Gosselin introduces key Web authoring techniques with a strong focus on industry application. A real-world proj. undefined...",
+      "status": "finished",
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "id": "5e307166-8b99-49e9-8016-2f2eab5b6852",
+      "title": "CSS Hacks and Filters",
+      "author": "Joseph Lowery",
+      "description": "Cascading Style Sheets (CSS) is a method of describing how a Web page should look in a Web browser, but a growing number of browsers do not support CSS in the same way, forcing developers to constantly play catch-up to keep their sites consistent Bestselling author Joe Lowery eases the pain for thos...",
+      "status": "to_read",
+      "tags": [
+        "php",
+        "digital",
+        "less",
+        "latest"
+      ]
+    },
+    {
+      "id": "ddf138c4-f55c-438d-82cd-893eb75224f6",
+      "title": "Il Libro di Rut, volgarizzato in dialetto Siciliano dall' Avv. Luigi Scala",
+      "author": "Матросов Александр Васильевич",
+      "description": "Представлен весь спектр технологий создания Web-документов (начиная от простейших - статических - и до документов на основе динамического HTML), включая форматирование текста, создание списков, таблиц, форм, применение графики, каскадных таблиц стилей, встраивание различных объектов, использование с...",
+      "status": "finished",
+      "tags": []
+    },
+    {
+      "id": "c36037b0-fbc8-4cba-87f8-c6e75760ddce",
+      "title": "Черные дыры и молодые вселенные",
+      "author": "Стивен Хокинг",
+      "description": "Впервые лекция под названием «Черные дыры и молодые вселенные» была прочитана в Калифорнийском университете в Беркли. Дополненная размышлениями Стивена Хокинга на эту и смежные темы, она стала частью настоящего сборника, составленного из 13 эссе и развернутого интервью.На этих страницах самый извест...",
+      "status": "to_read",
+      "tags": [
+        "mobile",
+        "jar",
+        "unit",
+        "js",
+        "awesome",
+        "tree"
+      ]
+    },
+    {
+      "id": "7a409c43-2894-472d-ba35-ccc9451706d8",
+      "title": "Narrative of a Voyage to Java, China, and the Great Loo-Choo Island",
+      "author": "Basil Hall",
+      "description": "Диана Тиберж в отрочестве стала жертвой насилия, наложившего отпечаток на всю ее дальнейшую жизнь. Она обретает счастье и покой, усыновив в Таиланде мальчика, которого называет Люсьеном. В Париже они попадают в автомобильную катастрофу. Люсьен при смерти, но таинственный немецкий врач выводит его из...",
+      "status": "finished",
+      "tags": [
+        "html",
+        "php"
+      ]
+    },
+    {
+      "id": "42c95ff0-6970-4632-896b-9c4ea9f7a96c",
+      "title": "Francis Maria Scala",
+      "author": "Allen Culling Clark",
+      "description": "Author's pref. : \"the first of a series of updates that I plan to make available at regular intervals as I continue working toward the ultimate editions of The art of computer programming\", i.e. supplements to the 3rd ed. in anticipation of the 4th ed.",
+      "status": "to_read",
+      "tags": [
+        "search",
+        "list",
+        "git"
+      ]
+    },
+    {
+      "id": "72c6a7eb-9331-455a-a82e-a106c6e9d5de",
+      "title": "Изучаем программирование на JavaScript",
+      "author": "Фримен Эрик",
+      "description": "Вы готовы сделать шаг вперед в веб-программировании и перейти от верстки в HTML и CSS к созданию полноценных динамических страниц? Тогда пришло время познакомиться с самым «горячим» языком программирования — JavaScript! С помощью этой книги вы узнаете все о языке JavaScript — от переменных до циклов...",
+      "status": "to_read",
+      "tags": [
+        "scala",
+        "jquery",
+        "es2016"
+      ]
+    },
+    {
+      "id": "ce8d49e5-a14d-422a-8534-af07b978776e",
+      "title": "Sams Teach Yourself Web Publishing with HTML and CSS in One Hour a Day",
+      "author": "Laura Lemay",
+      "description": "Explains how to use HTML and CSS to create Web pages, covering topics including working with text, adding animated graphics, JavaScript.",
+      "status": "to_read",
+      "tags": [
+        "book",
+        "less",
+        "android",
+        "es6",
+        "git"
+      ]
+    },
+    {
+      "id": "fe9938e4-ee74-4a48-86b7-96c0b7eb3123",
+      "title": "\"Peace! It's wonderful!\"",
+      "author": "Henry Miller",
+      "description": "This book gives you tools--BMS maps, programs, JCL, etc.--you can easily copy to your own data sets, compile or assemble, and execute with little or no change. And it teaches you how to develop similar tools yourself. These utilities solve practical problems commonly faced by application and system . undefined...",
+      "status": "finished",
+      "tags": [
+        "list",
+        "test",
+        "java",
+        "latest",
+        "c#",
+        "popular"
+      ]
+    },
+    {
+      "id": "ca66053e-db01-43bc-a8c7-f82757c8ebd0",
+      "title": "The Dreams in the Witch House",
+      "author": "H. P. Lovecraft",
+      "description": "\"The dreams were wholly beyond the pale of sanity . . . \" Plagued by insane nightmare visions, Walter Gilman seeks help in Miskatonic University's infamous library of forbidden books, where, in the pages of Abdul Alhazred's dreaded Necronomicon, he finds terrible hints that seem to connect his own s...",
+      "status": "finished",
+      "tags": [
+        "sold",
+        "programming"
+      ]
+    },
+    {
+      "id": "9c5e887f-ccb3-4c81-9596-325f3790d411",
+      "title": "쉽게 따라 하는 모바일 웹 개발",
+      "author": "Ernest Classen",
+      "description": "Глубокое обучение – это вид машинного обучения, наделяющий компьютеры способностью учиться на опыте и понимать мир в терминах иерархии концепций. Книга содержит математические и концептуальные основы линейной алгебры, теории вероятностей и теории информации, численных расчетов и машинного обучения в. undefined...",
+      "status": "to_read",
+      "tags": [
+        "old"
+      ]
+    },
+    {
+      "id": "025a4143-d02a-4ab5-b4cc-1a3af14a6d2f",
+      "title": "Заводной апельсин",
+      "author": "Энтони Бёрджесс",
+      "description": "«Заводной апельсин» – литературный парадокс ХХ столетия. Продолжая футуристические традиции в литературе, экспериментируя с языком, на котором говорит рубежное поколение malltshipalltshikov и kisok «надсатых», Энтони Бёрджесс создает роман, признанный классикой современной литературы.Умный, жестокий...",
+      "status": "to_read",
+      "tags": [
+        "old"
+      ]
+    },
+    {
+      "id": "c207c8ca-1bd2-4ce1-a68c-f2de3b107aa1",
+      "title": "Объектно-ориентированное программирование в С++",
+      "author": "Роберт Лафоре",
+      "description": "Благодаря этой книге тысячи пользователей овладели технологией объектно-ориентированного программирования в С++. Книга пользуется стабильным успехом в учебных заведениях. Читателю необходимо лишь знание начальных основ программирования.",
+      "status": "finished",
+      "tags": [
+        "typescript",
+        "tree",
+        "old",
+        "dart",
+        "new",
+        "scala",
+        "tree"
+      ]
+    },
+    {
+      "id": "217e0c34-11a8-4a9c-aece-a8e571889138",
+      "title": "Эмили из Молодого Месяца. Искания",
+      "author": "Люси Мод Монтгомери",
+      "description": "В книгу вошла третья часть трилогии популярной канадской писательницы Л. М. Монтгомери о талантливой девочке с необыкновенными способностями Эмили. Книга адресована детям старшего школьного возраста...",
+      "status": "to_read",
+      "tags": [
+        "es7",
+        "awesome",
+        "css",
+        "list",
+        "c#",
+        "swift"
+      ]
+    },
+    {
+      "id": "b6a1a67f-8067-4036-ab33-9f5acf98bcf4",
+      "title": "Multiple Criteria and Multiple Constraint Levels Linear Programming",
+      "author": "Shi Yong",
+      "description": "This book introduces multiple criteria and multiple constraint levels linear programming (MC2LP), which is an extension of linear programming (LP) and multiple criteria linear programming (MCLP). In the last decade, the author and a group of researchers from the USA, China, Korea, Germany, and Hunga...",
+      "status": "to_read",
+      "tags": [
+        "es5",
+        "git",
+        "list",
+        "book",
+        "mobile",
+        "js",
+        "new"
+      ]
+    },
+    {
+      "id": "bbc18c56-b519-4556-a1cf-a983fe7da79e",
+      "title": "Sencha Touch Mobile JavaScript Framework",
+      "author": "John E. Clark",
+      "description": "Annotation Since its initial launch, Sencha Touch has quickly become the gold standard for developing rich mobile web applications with HTML5. Sencha Touch is the first HTML5 mobile JavaScript framework that allows you to develop mobile web apps that look and feel like native apps on both iPhone and...",
+      "status": "finished",
+      "tags": [
+        "scala",
+        "ada"
+      ]
+    },
+    {
+      "id": "dff2428b-35e4-43eb-9257-86bb2f5f8ae2",
+      "title": "JavaScript Sourcebook",
+      "author": "Gordon McComb",
+      "description": "The JavaScript SourceBook is a complete tutorial and reference for using JavaScript, teaching developers how to create JavaScripts and integrate them into HTML pages. With up-to-the-minute tips on creating JavaScript applications that take full advantage of new features in NetScape 3.0, the book exp...",
+      "status": "to_read",
+      "tags": [
+        "programming",
+        "android"
+      ]
+    },
+    {
+      "id": "57d0874e-04ef-4a0c-a8fc-81a91cc1d2ea",
+      "title": "Cracking The C, C++ And Java Interview",
+      "author": "S G Ganesh",
+      "description": "Salient Features:· Interview questions on C, C++ and Java programming· Categorized presentation of questions according to their level of difficulty· Sample written test question papers included· Information on various certification courses provided...",
+      "status": "finished",
+      "tags": []
+    },
+    {
+      "id": "8760ecdf-77c0-44ef-9f9c-0bc799593b82",
+      "title": "Effective JavaScript",
+      "author": "David Herman",
+      "description": "“It’s uncommon to have a programming language wonk who can speak in such comfortable and friendly language as David does. His walk through the syntax and semantics of JavaScript is both charming and hugely insightful; reminders of gotchas complement realistic use cases, paced at a comfortable curve.",
+      "status": "to_read",
+      "tags": [
+        "search",
+        "android",
+        "programming"
+      ]
+    },
+    {
+      "id": "90810351-1b13-4128-891d-126577d7697a",
+      "title": "Лев Толстой и русская журналистика эго епохи",
+      "author": "Эдуард Григорьевич Бабаев",
+      "description": "JavaScript is arguably the most polarizing and misunderstood programming language in the world. Many have attempted to replace it as the language of the Web, but JavaScript has survived, evolved, and thrived. Why did a language created in such hurry succeed where others failed? This guide gives you ...",
+      "status": "to_read",
+      "tags": []
+    },
+    {
+      "id": "0058f6bb-63d0-42b1-bfb8-ff22f9345f66",
+      "title": "Toxicological Profile for Fluorides, Hydrogen Fluoride, and Fluorine",
+      "author": "Christopher Nance",
+      "description": "The book introduces the TypeScript language and its features to anyone looking to develop rich web applications. Whether you are new to web development or are an experienced engineer with strong JavaScript skills, this book will get you writing code quickly. A basic understanding of JavaScript and i...",
+      "status": "to_read",
+      "tags": []
+    },
+    {
+      "id": "569f9aae-bc5b-4466-8929-bdf4812ba005",
+      "title": "Lucinda's Rustic Italian Kitchen",
+      "author": "Lucinda Scala Quinn",
+      "description": "Even the writing has an irresistibly Italian flavor in this cookbook by Lucinda Scala Quinn, a cohost of Everyday Food and head of the food department of Martha Stewart Living. Quinn presents fifty-two delicious, easy-to-prepare Italian recipes from her Italian-American childhood and her extensive t...",
+      "status": "finished",
+      "tags": [
+        "typescript"
+      ]
+    },
+    {
+      "id": "eb29b459-9d5e-4507-b7c9-a5402eb43b9a",
+      "title": "Toxicological Profile for DDT, DDE, and DDD",
+      "author": "Aumaille",
+      "description": "Computer programming is a skill that can bring great enjoyment from the creativity involved in designing and implementing a solution to a problem. This classroom-tested and easy-to-follow textbook teaches the reader how to program using Python, an accessible language which can be learned incremental. undefined...",
+      "status": "to_read",
+      "tags": [
+        "digital",
+        "es7",
+        "popular",
+        "styles",
+        "history",
+        "jar",
+        "latest"
+      ]
+    },
+    {
+      "id": "411cc4b7-c98e-4e5d-b961-476e21882f07",
+      "title": "Inuyasha",
+      "author": "Жан-Кристоф Гранже",
+      "description": "Inuyasha and the others are trapped inside Mount Hakurei with yet another newly reassembled Naraku. Meanwhile, Naraku reveals to Kikyo that his true purpose in hiding inside Mount Hakurei is to perfect an emotionless new form that could attack and even kill Kikyo without hesitation. Older teens.",
+      "status": "in_progress",
+      "tags": [
+        "tree",
+        "jar",
+        "list",
+        "styles",
+        "jquery",
+        "typescript",
+        "swift"
+      ]
+    },
+    {
+      "id": "33e36ce8-0a47-4281-9b7d-b92db2547dd5",
+      "title": "Programming TypeScript",
+      "author": "Boris Cherny",
+      "description": "Any programmer working in a dynamically typed language will tell you how hard it is to scale that language to more lines of code and to more engineers. That's why Facebook, Google, and Microsoft invented gradual static type layers for their dynamically typed JavaScript and Python code. TypeScript is...",
+      "status": "to_read",
+      "tags": [
+        "css",
+        "popular",
+        "old"
+      ]
+    },
+    {
+      "id": "5c9a1b85-508d-4436-92ba-281ec8c23115",
+      "title": "Annual Report of the Michigan Railroad Commission",
+      "author": "Michigan Railroad Commission",
+      "description": "Based on the best available corporate training courses, this volume is aimed at those with some computer training and want to expand on their Java knowledge. (Computer Books)...",
+      "status": "to_read",
+      "tags": [
+        "awesome",
+        "less"
+      ]
+    },
+    {
+      "id": "049bc40b-19c7-423f-aa98-09f7e5b11bf2",
+      "title": "Designing and Programming CICS Applications",
+      "author": "John Horswill",
+      "description": "CICS is an application server that delivers industrial-strength, online transaction management for critical enterprise applications. Proven in the market for over 30 years with many of the world's leading businesses, CICS enables today's customers to modernize and extend their applications to take a...",
+      "status": "finished",
+      "tags": [
+        "git",
+        "less"
+      ]
+    },
+    {
+      "id": "b9ab9011-5139-4914-b404-a8c85a8abc9e",
+      "title": "Just JavaScript",
+      "author": "Ian Elliot",
+      "description": "Just JavaScript is an attempt to understand JavaScript for what it really is - a very different language that should not be compared to Java or dismissed as simply a scripting language. It looks at the ideas that originally motivated the JavaScript approach and also at the additions over time that h...",
+      "status": "in_progress",
+      "tags": [
+        "book",
+        "es2016",
+        "programming",
+        "scala",
+        "styles",
+        "es5"
+      ]
+    },
+    {
+      "id": "884a0094-153a-454b-adea-abd23279bbf8",
+      "title": "The Al Jazeera Effect",
+      "author": "Philip Seib",
+      "description": "The battle for hearts and minds in the Middle East is being fought not on the streets of Baghdad, but on the newscasts and talk shows of Al Jazeera. The future of China is being shaped not by Communist Party bureaucrats, but by bloggers working quietly in cyber cafes. The next attacks by al Qaeda wi...",
+      "status": "to_read",
+      "tags": [
+        "es7",
+        "typescript",
+        "list",
+        "typescript",
+        "search",
+        "git"
+      ]
+    },
+    {
+      "id": "21dd1cdd-7903-4552-8c04-3a2ffbceb3a3",
+      "title": "Знак четырех",
+      "author": "Артур Дойл",
+      "description": "Юная мисс Морстен, дочь английского офицера, который пропал несколько лет назад при невыясненных обстоятельствах, начинает получать каждый год в один и тот же день по редкой жемчужине. Отправитель неизвестен.В попытке найти анонимного доброжелателя и раскрыть тайну исчезновения отца мисс Морстен обр...",
+      "status": "in_progress",
+      "tags": [
+        "scala",
+        "scala",
+        "android",
+        "git",
+        "c#",
+        "programming",
+        "scss"
+      ]
+    },
+    {
+      "id": "ac694291-43ef-4752-be9f-990bbb00245a",
+      "title": "CSS Development (with Css3)",
+      "author": "Zachary Kingston",
+      "description": "Anyone who has worked in web development for more than five minutes can tell you: the difference between an outstanding site and a terrible site is the quality of the CSS (Cascading Style Sheets). With CSS Development (with CSS3), you can learn to make high-quality, graphically amazing and thoroughl...",
+      "status": "to_read",
+      "tags": []
+    },
+    {
+      "id": "d459e1db-fe6c-443e-a454-b461b5569592",
+      "title": "Core Java 2: Fundamentals",
+      "author": "Cay S. Horstmann",
+      "description": "Demonstrates the advanced features of the most recent upgrade to the Java programming language, covering topics including multithreading, collections, networking, remote objects, JavaBeans, and GUI-building techniques.",
+      "status": "to_read",
+      "tags": [
+        "less",
+        "c#",
+        "less",
+        "history",
+        "sold",
+        "php",
+        "lisp"
+      ]
+    },
+    {
+      "id": "67e3de6f-e33d-41b4-bcb3-ce696eb12ec1",
+      "title": "Random Obsessions",
+      "author": "Nick Belardes",
+      "description": "Did you know Thomas Jefferson’s grandson was an ax murderer? Don’t you delight knowing some dinosaurs were teeny tiny as hens? Before buying that plane ticket, don’t you NEED to know which exotic islands still have cannibals? Wonder what it’s like to live in Hell Town at the End of the World? How ab...",
+      "status": "to_read",
+      "tags": [
+        "history",
+        "dart",
+        "dart",
+        "latest",
+        "data",
+        "awesome"
+      ]
+    },
+    {
+      "id": "3a367ff6-bf65-4611-8bbe-e51383f573fa",
+      "title": "Дневник Анны Франк",
+      "author": "Анна Франк, Ари Фольман, Дэвид Полонски",
+      "description": "Графический роман создан Ари Фольманом и Дэвидом Полонски — сценаристом и художником номинированного на «Оскар» и получившего «Золотой глобус» мультфильма «Вальс с Баширом». К 2019 году Ари и Дэвид готовят мультфильм по «Дневнику». Адаптацию одобрил Фонд Анны Франк, который курирует издания по всему...",
+      "status": "to_read",
+      "tags": [
+        "ios",
+        "android",
+        "jshint",
+        "book"
+      ]
+    },
+    {
+      "id": "c8edffd3-cb11-4a83-9a1c-7b938b0f1ef0",
+      "title": "An English and Chinese standard dictionary: A-L",
+      "author": "顏惠慶",
+      "description": "In this international bestseller, Mary Roach breaks bread with spit connoisseurs, beer and pet-food tasters, stomach slugs, potato crisp engineers, enema exorcists, rectum-examining prison guards, competitive hot dog eaters, Elvis' doctor, and many more as she investigates the beginning, and the end...",
+      "status": "finished",
+      "tags": [
+        "list"
+      ]
+    },
+    {
+      "id": "d2f4a154-3310-495c-a197-1c11be3aed0c",
+      "title": "Windows 98 Programming from the Ground Up",
+      "author": "Herbert Schildt",
+      "description": "This guide provides in-depth coverage and a thorough explanation of the Windows 95 programming environment. It gets people through the basics, so that they can focus on doing sophisticated, real-world programming. Her bert Schildt is the author of C: The Complete Reference, C++: The Complete Referen...",
+      "status": "to_read",
+      "tags": []
+    },
+    {
+      "id": "2acc36a4-2c94-47de-b8d9-7bb659ccc433",
+      "title": "Advanced Functional Programming",
+      "author": "Rinus Plasmeijer",
+      "description": "This tutorial book presents seven carefully revised lectures given at the 6th International School on Functional Programming, AFP 2008, in Heijen, The Netherlands in May 2008. The book presents the following seven, carefully cross-reviewed chapters, written by leading authorities in the field: Self-...",
+      "status": "to_read",
+      "tags": []
+    },
+    {
+      "id": "eef1ac53-0b71-4a0f-96eb-428bce09484d",
+      "title": "The Cabinet dictionary of the English language",
+      "author": "Richard York",
+      "description": "This book covers the jQuery JavaScript framework and the jQuery UI JavaScript framework to get more results faster out of JavaScript programming. The author covers each method exposed by jQuerys API, which contains methods to resolve common, redundant tasks in less code. You will also learn how jQue...",
+      "status": "to_read",
+      "tags": []
+    },
+    {
+      "id": "79de1cb2-ea69-47b4-a2d3-a8ae4f4446f8",
+      "title": "CSS Web Site Design",
+      "author": "Eric A. Meyer",
+      "description": "An introduction to Cascading Style Sheets (CSS) and their applications in Web design takes readers step by step through the process of creating a dynamic Web site with CSS, providing detailed instruction, hands-on exercises, and real-world examples to help users master essential concepts and techniq...",
+      "status": "finished",
+      "tags": [
+        "es2016",
+        "es5",
+        "programming"
+      ]
+    },
+    {
+      "id": "f6014355-906c-4b9e-a64c-8d1b10851204",
+      "title": "Report of the Department of Education",
+      "author": "John Walkenbach",
+      "description": "By itself, Excel 97 can do some pretty amazing stuff. Add Visual Basic for Applications (VBA) and you add a whole other dimension of automation and customization. Excel 97 Programming For Windows For Dummies offers plenty of practical examples of Excel programming in action and explains in plain Eng...",
+      "status": "to_read",
+      "tags": [
+        "scss",
+        "java",
+        "c#",
+        "list",
+        "js",
+        "awesome"
+      ]
+    },
+    {
+      "id": "c9b19ded-9de4-4287-ac2d-9688dd07003f",
+      "title": "Веб-мастеринг: HTML, CSS, JavaScript, PHP, CMS, графика, раскрутка",
+      "author": "Петр А. Ташков",
+      "description": "Книга поможет вам: проводить тонкую настройку сайта; моделировать динамические веб-страницы; создавать графические элементы; сопровождать и продвигать сайты в Интернете и многое другое. Для тех, кто хочет научиться эффективно решать задачи веб-мастеринга...",
+      "status": "to_read",
+      "tags": [
+        "digital"
+      ]
+    },
+    {
+      "id": "4cf8ec02-dee8-45a7-8c3c-18d732914be6",
+      "title": "Assignment in Eternity",
+      "author": "Robert A. Heinlein",
+      "description": "Tells the stories of a secret league of supermen, telepathic powers, a genetic engineering project, and time travel...",
+      "status": "in_progress",
+      "tags": [
+        "jshint"
+      ]
+    },
+    {
+      "id": "8060d8a9-a844-46f6-a4f4-ede52b432c38",
+      "title": "Sandboxing Untrusted JavaScript",
+      "author": "Ankur Taly",
+      "description": "Many contemporary Web sites incorporate third-party content in the form of advertisements, social-networking widgets, and maps. A number of sites like Facebook and Twitter also allow users to post comments that are then served to others, or allow users to add their own applications to the site. Such...",
+      "status": "finished",
+      "tags": [
+        "scala",
+        "html",
+        "mobile",
+        "html"
+      ]
+    },
+    {
+      "id": "d6fdf711-252d-4275-a492-a9eaa1b926ff",
+      "title": "A Guide to Creative Group Programming in the Psychiatric Day Hospital",
+      "author": "Lois E. Passi",
+      "description": "A Guide to Creative Group Programming in the Psychiatric Day Hospital is the only book that contains protocols for the creation of new groups, saving you the time and effort needed to create one yourself. This book introduces new and unique methods on how to create or manage groups for a day hospita...",
+      "status": "to_read",
+      "tags": [
+        "history",
+        "js",
+        "swift"
+      ]
+    },
+    {
+      "id": "3a4c78c5-4466-44d0-a836-19a041e90ba7",
+      "title": "Gazetteer of the Persian Gulf: Historical (4v.)",
+      "author": "John Gordon Lorimer",
+      "description": "C is a popular programming language which is commonly used by scientists and engineers to write programs for any specific application. C is also a widely accepted programming language in the software industries. This beginner’s guide to computer programming is for student programmers to effectively . undefined...",
+      "status": "to_read",
+      "tags": []
+    },
+    {
+      "id": "9034cc3f-d021-41f8-8274-1ed03c76abbd",
+      "title": "Sherman's March Through the South",
+      "author": "David Power Conyngham",
+      "description": "Bernini's Scala Regia is the paradigm of the Baroque aesthetic. Combining art and architecture, sculpture and decoration in an illusionistic ensemble, this monumental staircase served as the main entrance to the Vatican Palace, as well as the principal connection between the palace and St. Peter's b...",
+      "status": "to_read",
+      "tags": [
+        "git",
+        "swift",
+        "swift",
+        "ada",
+        "latest",
+        "swift",
+        "tslint"
+      ]
+    },
+    {
+      "id": "68354eaa-f2be-4aa9-829b-d52c5b9861f1",
+      "title": "Angular Development with Typescript",
+      "author": "Yakov Fain",
+      "description": "Summary Angular Development with TypeScript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub fo...",
+      "status": "finished",
+      "tags": [
+        "jar",
+        "old"
+      ]
+    },
+    {
+      "id": "e8a51407-dddb-47fd-818d-a9d59e94c3df",
+      "title": "CSS. Рецепты программирования, 3-е изд.",
+      "author": "Шмитт К.",
+      "description": "Книга посвящена технологии Cascading Style Sheets (каскадные таблицы стилей). Обсуждаются основы CSS, а также средства, обеспечивающие наилучшие методы практиче-ской разработки: Web-типографика, изображения, элементы страницы, списки, ссылки и навигация, формы, таблицы, макеты страниц, печать Web-ст...",
+      "status": "to_read",
+      "tags": [
+        "es2016",
+        "scala",
+        "latest",
+        "ios",
+        "programming"
+      ]
+    },
+    {
+      "id": "de9601b3-6358-4241-906f-32cbfb71c8b2",
+      "title": "Basic made easy",
+      "author": "Don Cassel",
+      "description": "Introduction to minicomputers and microcomputers; Using flowcharts to solve programming problems; Basic programming fundamentals; Arithmetic and string operations; Data input and output; Program control statements.",
+      "status": "to_read",
+      "tags": [
+        "old"
+      ]
+    },
+    {
+      "id": "b8a12b7e-03f5-4d77-9c55-332a9e6df694",
+      "title": "Html, Css, Jawascripts, Perl ,Python & Php (web Stander)",
+      "author": "Ehsan Arasteh",
+      "description": "Get to grips with a new technology, understand what it is and what it can do for you, and then get to work with the most important features and tasks. A simple starter that will guide you through IntroJs from scratch to advanced topics using a simple step by step approach with useful examples along ...",
+      "status": "finished",
+      "tags": [
+        "es6",
+        "popular",
+        "java",
+        "java",
+        "programming"
+      ]
+    },
+    {
+      "id": "b6d67cf5-01a4-4bd0-aaa7-f9d38e8e74fc",
+      "title": "Вас невозможно научить иностранному языку",
+      "author": "Николай Замяткин",
+      "description": "Пособие для тех, кто желает легко и в непринужденной форме овладеть навыками изучения иностранных языков.",
+      "status": "to_read",
+      "tags": [
+        "history",
+        "ada",
+        "history",
+        "ios",
+        "sold"
+      ]
+    },
+    {
+      "id": "11e1fb44-e990-4f92-921f-25a17415eb4f",
+      "title": "Recent mathematical methods in dynamic programming",
+      "author": "Italo Capuzzo Dolcetta",
+      "description": "Легко ли жить, находясь в чешуйчатых лапах пришельцев? Которые, к тому же, держат вас в качестве любимых домашних животных? Что должно случиться, чтобы положение изменилось, и сколько подвигов для этого нужно совершить?..",
+      "status": "to_read",
+      "tags": [
+        "jquery",
+        "jshint",
+        "es5"
+      ]
+    },
+    {
+      "id": "6770e862-72fd-4365-bccb-8ed17faa84a3",
+      "title": "Houghton Library Collection of Tennessee Williams Typescript Compositions",
+      "author": "Karl Barksdale",
+      "description": "Includes typescript short stories, scripts, screenplays, and notes acquired at different times.",
+      "status": "in_progress",
+      "tags": [
+        "html",
+        "programming",
+        "html",
+        "dart",
+        "javascript",
+        "search"
+      ]
+    },
+    {
+      "id": "68a309fd-d6ef-4978-b762-e7f66c730b8b",
+      "title": "Beginning JavaScript",
+      "author": "Paul Wilton",
+      "description": "What is this book about? JavaScript is the language of the Web. Used for programming all major browsers, JavaScript gives you the ability to enhance your web site by creating interactive, dynamic, and personalized pages. Our focus in this book is on client-side scripting, but JavaScript is also huge...",
+      "status": "finished",
+      "tags": [
+        "list"
+      ]
+    },
+    {
+      "id": "f4ebf6a6-7a1b-4aa0-bd28-6320612d25e2",
+      "title": "A Dictionary of the English Language",
+      "author": "James Stormonth",
+      "description": "The third edition of Java Precisely provides a concise description of the Java programming language, version 8.0. It offers a quick reference for the reader who has already learned (or is learning) Java from a standard textbook and who wants to know the language in more detail. The book presents the. undefined...",
+      "status": "to_read",
+      "tags": [
+        "book",
+        "java",
+        "lisp",
+        "lisp",
+        "dart"
+      ]
+    },
+    {
+      "id": "1f36d2f2-20ab-4baa-9530-eb618b1119e7",
+      "title": "Finnish-English dictionary",
+      "author": "Karl Vilhelm Arminen",
+      "description": "23f01117-0f54-4718-bba7-540b2fefa22b...",
+      "status": "finished",
+      "tags": [
+        "unit",
+        "test"
+      ]
+    },
+    {
+      "id": "2f54a066-4259-4084-9a63-2144bb19ba8a",
+      "title": "The Colonial Entry-books",
+      "author": "Charles Strachan Sanders Higham",
+      "description": "Dispels the myth that JavaScript is a \"baby\" language and demonstrates why it is the scripting language of choice used in the design of millions of Web pages and server–side applications Quickly covers JavaScript basics and then moves on to more advanced topics such as object–oriented programming, X...",
+      "status": "to_read",
+      "tags": [
+        "test",
+        "book",
+        "es7",
+        "jshint",
+        "javascript",
+        "es5",
+        "js"
+      ]
+    },
+    {
+      "id": "ac444b6d-d657-4c9a-904f-e13a932a9dec",
+      "title": "Typescript of an account by Germanos of Thyatira of the question of the Greeks of Asia Minor, sent me in 1927 on the occasion of my lecturing at London, at Kings College on the Asia Minor Greeks",
+      "author": "Germanos (Metropolitan of Thyateira)",
+      "description": "IOS Press...",
+      "status": "in_progress",
+      "tags": [
+        "android",
+        "mobile",
+        "javascript",
+        "eslint"
+      ]
+    },
+    {
+      "id": "9ab22b05-cad7-4443-a417-7617a326a9fe",
+      "title": "Rescuing Regina",
+      "author": "Josephe Marie Flynn",
+      "description": "What is it like to be a young mother threatened with deportation to the country whose government has imprisoned you and whose soldiers have raped and tortured you? You don't want to leave your children behind, but how can you take them with you, knowing that your homeland, ruled by chaos and violenc...",
+      "status": "in_progress",
+      "tags": [
+        "list",
+        "old",
+        "less"
+      ]
+    }
+  ]
+}
